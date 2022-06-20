@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ImdbMovieWebsite_React/static/css/main.b48ca220.css",
+    "main.js": "/ImdbMovieWebsite_React/static/js/main.31c6ddb6.js",
+    "index.html": "/ImdbMovieWebsite_React/index.html",
+    "main.b48ca220.css.map": "/ImdbMovieWebsite_React/static/css/main.b48ca220.css.map",
+    "main.31c6ddb6.js.map": "/ImdbMovieWebsite_React/static/js/main.31c6ddb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b48ca220.css",
+    "static/js/main.31c6ddb6.js"
+  ]
+}
